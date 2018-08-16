@@ -32,11 +32,12 @@ def get_h1(soup):
 	soup_h1 = soup.find('h1').get_text()
 	return soup_h1
 
-
 def get_img_after_h1(soup):
 	soup_h1 = soup.find('h1')
 	soup_img_url = soup_h1.find_next('img').get('src')
 	return soup_img_url
+
+
 
 if __name__ == '__main__':
 	url = sys.argv[1] #Get the URL from the first CLI argument

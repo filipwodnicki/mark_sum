@@ -31,6 +31,14 @@ See output in conda.md
 2. [sumy](https://github.com/miso-belica/sumy)
 3. [Markdown Generator](https://github.com/cmccandless/markdown-generator)
 
+## Feature wishlist
+* Tests
+* Error handling
+* CLI argument validation with argparse
+* Export markdown files to a folder
+* Tag generation
+* limit time taken by Requests
+
 
 ## Changelog
 August 16, 2018 - v0.2 published - Improved image retrieval (Gets largest image after h1, if width and height are defined; else gets first image after h1)

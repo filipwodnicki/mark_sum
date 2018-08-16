@@ -1,6 +1,6 @@
 # Renesas S3A1 MCU group offers improved security, connectivity for modern IoT solutions
 Source: iot.eetimes.com
-![Renesas S3A1 MCU group offers improved security, connectivity for modern IoT solutions](https://iot.eetimes.com/wp-content/uploads/sites/2/2018/08/Aspencore_Icon_color-80x80.png)
+![Renesas S3A1 MCU group offers improved security, connectivity for modern IoT solutions](https://iot.eetimes.com/wp-content/uploads/sites/2/2018/07/renesas.jpg)
 
 Renesas has announced details behinds its S3A1 microcontroller group, which was specially designed for all applications that require a high level of security and IoT device-to-cloud connectivity.
 

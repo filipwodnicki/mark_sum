@@ -1,15 +1,23 @@
 # mark_sum
-Mark_sum is a package that creates automatic webpage summaries. It takes a URL and filename for export as command line arguments. It outputs a markdown (.md) file with the following information:
+Mark_sum is a package that creates automatic webpage summaries.
+
+Input: It takes a URL and a filename (Markdown .md file, for export) as command line arguments.
+Output: It writes a markdown file to the current directory with the following information:
 
 1. Title of article
-2. Featured image (first image after h1)
-3. Summary (Three sentences)
-4. Link to the article
+2. Source
+3. Featured image (first image after h1)
+4. Summary (Three sentences)
+5. Link to the article
 
 ## Usage
 
 Typical usage in command line:
-`$ python mark_sum.py urltosummarize.com/yes-do-it export-file-name.md`
+`$ python mark_sum.py urltosummarize.com export-filename.md`
+
+## Requirements
+* Python 3.6
+* Modules as listed below:
 
 ## Modules Used
 1. [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)

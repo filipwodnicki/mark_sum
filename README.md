@@ -12,9 +12,10 @@ Typical usage in command line:
 `$ python mark_sum.py urltosummarize.com/yes-do-it export-file-name.md`
 
 ## Modules Used
-[sumy](https://github.com/miso-belica/sumy)
-[Markdown Generator]https://github.com/cmccandless/markdown-generator
-[Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+1. [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+2. [sumy](https://github.com/miso-belica/sumy)
+3. [Markdown Generator](https://github.com/cmccandless/markdown-generator)
+
 
 ## Changelog
 August 16, 2018 - v0.1 published 

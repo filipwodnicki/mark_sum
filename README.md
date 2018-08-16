@@ -16,10 +16,10 @@ Typical usage in command line:
 `python mark_sum.py urltosummarize.com export-filename.md`
 
 ### examples
-`python mark_sum.py https://iot.eetimes.com/renesas-s3a1-mcu-group-offers-improved-security-connectivity-for-modern-iot-solutions/ iot.md`..
+`python mark_sum.py https://iot.eetimes.com/renesas-s3a1-mcu-group-offers-improved-security-connectivity-for-modern-iot-solutions/ iot.md`  
 See output in __iot.md__
 
-`python mark_sum.py https://hackernoon.com/install-python-gdal-using-conda-on-mac-8f320ca36d90 conda.md`..
+`python mark_sum.py https://hackernoon.com/install-python-gdal-using-conda-on-mac-8f320ca36d90 conda.md`  
 See output in __conda.md__
 
 ## Requirements
@@ -41,7 +41,8 @@ See output in __conda.md__
 
 
 ## Changelog
-August 16, 2018 - v0.2 published - Improved image retrieval (Gets largest image after h1, if width and height are defined; else gets first image after h1)
+August 16, 2018 - v0.2 published  
+Improved image retrieval (Gets largest image after h1, if width and height are defined; else gets first image after h1)
 
 August 16, 2018 - v0.1 published
 
